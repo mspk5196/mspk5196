@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 ## 🚀 About Me
 
 - 🧑‍💻 **Fullstack Engineer**: JavaScript, TypeScript, Python, Node.js, React, Next.js, Express, MongoDB, SQL, Docker, AWS & more.
+- ⚛️ **React Native & App Development**: Building cross-platform mobile apps that delight users.
 - 🎨 **UI/UX Designer**: I believe user experience is at the heart of every great product.
 - 🛠️ **Maker & Problem Solver**: I love turning ideas into reality and solving complex challenges.
 - 🌱 **Continuous Learner**: Always exploring new tech, frameworks, and best practices.
@@ -16,6 +17,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 ## 🌟 What I Do
 
 - **Web Development**: Dynamic websites, RESTful APIs, real-time apps, dashboards.
+- **App Development**: ⚛️ React Native, iOS/Android, mobile-first design.
 - **Cloud & DevOps**: CI/CD, automation, cloud deployments.
 - **Open Source**: Contributor, maintainer, and advocate for open collaboration.
 - **Mentoring**: Helping fellow devs grow and learn.
@@ -29,7 +31,8 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
   
   - 🟦 JavaScript / TypeScript
   - 🐍 Python / Django / Flask
-  - ⚛️ React / Next.js / Redux
+  - ⚛️ React / Next.js / Redux / React Native
+  - 📱 React Native / Expo / Firebase
   - 🏗️ Node.js / Express
   - 🗄️ MongoDB / PostgreSQL / MySQL
   - 🐳 Docker / Kubernetes
@@ -50,6 +53,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 - [Project One](#) — 🚀 Innovative fullstack app with real-time features.
 - [Project Two](#) — 🌟 Open source toolkit for developers.
 - [Project Three](#) — ✨ Beautifully designed UI components.
+- [Mobile App Project](#) — ⚛️ Cross-platform React Native app.
 
 ---
 
@@ -69,11 +73,11 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 
 ---
 
-## 🏆 Fun Facts
+---
 
-- 🎸 Music lover & amateur guitarist
-- 🌍 Always up for adventure & travel
-- 🚴‍♂️ Cycling fanatic
+## 🟢 Current Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mspk5196&theme=radical)](https://git.io/streak-stats)
 
 ---
 
