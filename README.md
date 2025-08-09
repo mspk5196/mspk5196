@@ -42,9 +42,6 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 
 ---
 
-## 📈 GitHub Stats
-
-![Mspk5196's GitHub stats](https://github-readme-stats.vercel.app/api?username=mspk5196&show_icons=true&theme=radical)
 
 ---
 
