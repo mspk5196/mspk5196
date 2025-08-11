@@ -6,9 +6,8 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 
 ## 🚀 About Me
 
-- 🧑‍💻 **Fullstack Engineer**: JavaScript, TypeScript, Python, Node.js, React, Next.js, Express, MongoDB, SQL, Docker, AWS & more.
+- 🧑‍💻 **Fullstack Engineer**: JavaScript, Node.js, React, Express, SQL, Firebase, Google cloud console, React Native.
 - ⚛️ **React Native & App Development**: Building cross-platform mobile apps that delight users.
-- 🎨 **UI/UX Designer**: I believe user experience is at the heart of every great product.
 - 🛠️ **Maker & Problem Solver**: I love turning ideas into reality and solving complex challenges.
 - 🌱 **Continuous Learner**: Always exploring new tech, frameworks, and best practices.
 
@@ -18,8 +17,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 
 - **Web Development**: Dynamic websites, RESTful APIs, real-time apps, dashboards.
 - **App Development**: ⚛️ React Native, iOS/Android, mobile-first design.
-- **Cloud & DevOps**: CI/CD, automation, cloud deployments.
-- **Open Source**: Contributor, maintainer, and advocate for open collaboration.
+- **Cloud & DevOps**: cloud deployments.
 - **Mentoring**: Helping fellow devs grow and learn.
 
 ---
@@ -29,15 +27,12 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 <details>
   <summary>Languages, Frameworks & Platforms</summary>
   
-  - 🟦 JavaScript / TypeScript
-  - 🐍 Python / Django / Flask
+  - 🟦 JavaScript
   - ⚛️ React / Next.js / Redux / React Native
-  - 📱 React Native / Expo / Firebase
+  - 📱 React Native / CLI / Firebase
   - 🏗️ Node.js / Express
-  - 🗄️ MongoDB / PostgreSQL / MySQL
-  - 🐳 Docker / Kubernetes
-  - ☁️ AWS / Vercel / Netlify
-  - 🎨 Figma / Adobe XD
+  - 🗄️ MySQL
+  - ☁️ Render / Vercel / Railway / Back4App / TiDB Cloud
 </details>
 
 ---
@@ -48,8 +43,6 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 ## 💡 Featured Projects
 
 - [Project One](#) — 🚀 Innovative fullstack app with real-time features.
-- [Project Two](#) — 🌟 Open source toolkit for developers.
-- [Project Three](#) — ✨ Beautifully designed UI components.
 - [Mobile App Project](#) — ⚛️ Cross-platform React Native app.
 
 ---
@@ -64,9 +57,9 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mspk5196)
-- 🐦 [Twitter](https://twitter.com/mspk5196)
-- ✉️ Email: mspk5196@gmail.com
+- 💼 [LinkedIn]((https://www.linkedin.com/in/pranesh-karthi-m-s-571a0a325/))
+- 🐦 [Twitter](https://twitter.com/pranesh5196)
+- ✉️ Email: praneshkarthims@gmail.com
 
 ---
 
