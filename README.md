@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 - 💼 [LinkedIn]((https://www.linkedin.com/in/pranesh-karthi-m-s-571a0a325/))
 - 🐦 [Twitter](https://twitter.com/pranesh5196)
 - ✉️ Email: praneshkarthims@gmail.com
-- ▶️ Play Store: ((https://play.google.com/store/apps/dev?id=5913381804494964279))
+- ▶️ Play Store: https://play.google.com/store/apps/dev?id=5913381804494964279
 
 ---
 
