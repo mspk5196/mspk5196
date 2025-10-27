@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 - **Web Development**: Dynamic websites, RESTful APIs, real-time apps, dashboards.
 - **App Development**: ⚛️ React Native, iOS/Android, mobile-first design.
 - **Cloud & DevOps**: cloud deployments.
+- **Local Ubuntu Server**: Docker + Local server using docker + Caddy + Nginx.
+- **Domain Management**: Own domain for website and managing that domain.
 - **Mentoring**: Helping fellow devs grow and learn.
 
 ---
@@ -34,6 +36,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
   - 🗄️ MySQL
   - ☁️ Render / Vercel / Railway / Back4App / TiDB Cloud
   - ☁️ Google cloud console
+  - ☁️ Docker + Local Ubuntu server
 </details>
 
 ---
@@ -58,7 +61,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/pranesh-karthi-m-s-571a0a325/))
+- 💼 [LinkedIn]((https://www.linkedin.com/in/mspk5196))
 - 🐦 [Twitter](https://twitter.com/pranesh5196)
 - ✉️ Email: praneshkarthims@gmail.com
 - ▶️ Play Store: https://play.google.com/store/apps/dev?id=5913381804494964279
