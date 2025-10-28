@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 
 ## 🚀 About Me
 
-- 🧑‍💻 **Fullstack Engineer**: JavaScript, Node.js, React, Express, SQL, Firebase, Google cloud console, React Native.
+- 🧑‍💻 **Fullstack Engineer**: JavaScript, Node.js, React, Express, SQL, Firebase, Google cloud console, React Native, Local Ubuntu server, Docker.
 - ⚛️ **React Native & App Development**: Building cross-platform mobile apps that delight users.
 - 🛠️ **Maker & Problem Solver**: I love turning ideas into reality and solving complex challenges.
 - 🌱 **Continuous Learner**: Always exploring new tech, frameworks, and best practices.
