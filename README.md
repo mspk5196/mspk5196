@@ -46,8 +46,8 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 
 ## 💡 Featured Projects
 
-- [Project One](#) — 🚀 Innovative fullstack app with real-time features.
-- [Mobile App Project](#) — ⚛️ Cross-platform React Native app.
+- [Project one](#) — 🚀 Innovative fullstack app with real-time features(Academic management app).
+- [Mobile App Project](https://play.google.com/store/apps/details?id=in.mspkapps100.Dairy_of_ccare) — ⚛️ React Native app with node backend.
 
 ---
 
