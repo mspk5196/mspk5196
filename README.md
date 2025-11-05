@@ -72,7 +72,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 
 ## 🟢 Current Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mspk5196&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mspk5196&theme=cobalt)](https://git.io/streak-stats)
 
 ---
 
