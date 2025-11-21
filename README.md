@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
   <summary>Languages, Frameworks & Platforms</summary>
   
   - 🟦 JavaScript
-  - ⚛️ React / Next.js / Redux / React Native
+  - ⚛️ React / Redux / React Native
   - 📱 React Native / CLI / Firebase
   - 🏗️ Node.js / Express
   - 🗄️ MySQL
