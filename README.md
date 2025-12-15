@@ -72,7 +72,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 
 ## 🟢 Current Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mspk5196)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mspk5196)](https://git.io/streak-stats)
 
 ---
 
