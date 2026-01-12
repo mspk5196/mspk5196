@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **MSPK**!
 
-Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** focused on building scalable, efficient, and delightful software products — from backend systems to mobile apps and cloud infrastructure.
+I'm a Fullstack + DevOps Engineer building scalable, high-performance software — from backend services to mobile apps and cloud deployments.
 
 ---
 
@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** focused o
 
   **Frontend**
   - ⚛️ React
-  - 🌀 Redux
-  - 🎨 TailwindCSS
+  - 🌀 Zustand
+  - 🎨 SCSS/SASS
 
   **Mobile**
   - ⚛️ React Native / CLI
@@ -72,6 +72,8 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** focused o
 - **Academic Management App** — 🚀 Fullstack + real-time features.
 - **Mobile App** — ⚛️ React Native app with Node backend  
   👉 https://play.google.com/store/apps/details?id=in.mspkapps100.Dairy_of_ccare
+- **Auth Server** - 🪪 Authentication server with features like seperate and group apps, specialized for developers
+  👉 https://authservices.mspkapps.in/
 
 ---
 
@@ -89,6 +91,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** focused o
 - 🐦 Twitter — https://twitter.com/pranesh5196
 - ✉️ Email — praneshkarthims@gmail.com
 - ▶️ Play Store — https://play.google.com/store/apps/dev?id=5913381804494964279
+- 🌐 Website - https://mspkapps.in
 
 ---
 
