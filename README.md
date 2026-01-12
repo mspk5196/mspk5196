@@ -1,53 +1,77 @@
 # 👋 Hello, I'm **MSPK**!
 
-Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a knack for building scalable, efficient, and beautiful digital experiences. If you love innovation, clean code, and creative solutions, you’re in the right place!
+Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** focused on building scalable, efficient, and delightful software products — from backend systems to mobile apps and cloud infrastructure.
 
 ---
 
 ## 🚀 About Me
 
-- 🧑‍💻 **Fullstack Engineer**: JavaScript, Node.js, React, Express, SQL, Firebase, Google cloud console, React Native, Local Ubuntu server, Docker.
-- ⚛️ **React Native & App Development**: Building cross-platform mobile apps that delight users.
-- 🛠️ **Maker & Problem Solver**: I love turning ideas into reality and solving complex challenges.
-- 🌱 **Continuous Learner**: Always exploring new tech, frameworks, and best practices.
+- 🧑‍💻 **Fullstack Engineer** — JavaScript, Node.js, React, Express, SQL, Networking & Deployment.
+- ⚛️ **React Native Developer** — Cross-platform mobile apps on iOS & Android.
+- 🔁 **CI/CD & Deployment** — Jenkins + Docker for automation.
+- 📊 **Observability & Monitoring** — Grafana dashboards + metrics.
+- 🌐 **Cloud & Infra** — Self-hosted + cloud-hosted apps.
+- 🌱 **Continuous Learner** — Always experimenting with new stacks & tooling.
 
 ---
 
 ## 🌟 What I Do
 
-- **Web Development**: Dynamic websites, RESTful APIs, real-time apps, dashboards.
-- **App Development**: ⚛️ React Native, iOS/Android, mobile-first design.
-- **Cloud & DevOps**: cloud deployments.
-- **Local Ubuntu Server**: Docker + Local server using docker + Caddy + Nginx.
-- **Domain Management**: Own domain for website and managing that domain.
-- **Mentoring**: Helping fellow devs grow and learn.
+- **Web Development**: REST APIs, dashboards, real-time applications.
+- **Mobile App Development**: React Native, Firebase, native modules.
+- **Backend Development**: Node, Express, SQL, storage, auth, real-time.
+- **CI/CD Pipelines**: Jenkins automation + Docker-based deployments.
+- **Monitoring & Metrics**: Grafana dashboards for system insights.
+- **Cloud & DevOps**: Deployments, networking, SSL, reverse proxies.
+- **Self-Hosted Infra**: Docker + Local Ubuntu Server + Nginx + Caddy.
+- **Domain Management**: DNS, SSL, certificates & routing.
+- **Mentoring**: Helping other devs grow and learn.
 
 ---
 
 ## 🔥 Toolbox
 
 <details>
-  <summary>Languages, Frameworks & Platforms</summary>
-  
+  <summary><strong>Languages, Frameworks & Platforms</strong></summary><br>
+
+  **Languages**
   - 🟦 JavaScript
-  - ⚛️ React / Redux / React Native
-  - 📱 React Native / CLI / Firebase
+  - ⚙️ SQL
+
+  **Frontend**
+  - ⚛️ React
+  - 🌀 Redux
+  - 🎨 TailwindCSS
+
+  **Mobile**
+  - ⚛️ React Native / CLI
+  - 📱 Firebase / Cloud Messaging
+
+  **Backend**
   - 🏗️ Node.js / Express
   - 🗄️ MySQL
+  - 🔄 Socket.io (Real-time)
+
+  **CI/CD & Monitoring**
+  - 🔁 Jenkins (CI/CD Pipelines)
+  - 📊 Grafana (Metrics & Dashboards)
+
+  **Infra / Cloud**
   - ☁️ Render / Vercel / Railway / Back4App / TiDB Cloud
-  - ☁️ Google cloud console
-  - ☁️ Docker + Local Ubuntu server
+  - ☁️ Google Cloud Console
+  - 🐳 Docker
+  - 🏠 Ubuntu / Local server setups
+  - 🌐 Nginx / Caddy + SSL
+  - 🔐 Domain Management
 </details>
-
----
-
 
 ---
 
 ## 💡 Featured Projects
 
-- [Project one](#) — 🚀 Innovative fullstack app with real-time features(Academic management app).
-- [Mobile App Project](https://play.google.com/store/apps/details?id=in.mspkapps100.Dairy_of_ccare) — ⚛️ React Native app with node backend.
+- **Academic Management App** — 🚀 Fullstack + real-time features.
+- **Mobile App** — ⚛️ React Native app with Node backend  
+  👉 https://play.google.com/store/apps/details?id=in.mspkapps100.Dairy_of_ccare
 
 ---
 
@@ -61,12 +85,10 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a kn
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mspk5196)
-- 🐦 [Twitter](https://twitter.com/pranesh5196)
-- ✉️ Email: praneshkarthims@gmail.com
-- ▶️ Play Store: https://play.google.com/store/apps/dev?id=5913381804494964279
-
----
+- 💼 LinkedIn — https://www.linkedin.com/in/mspk5196
+- 🐦 Twitter — https://twitter.com/pranesh5196
+- ✉️ Email — praneshkarthims@gmail.com
+- ▶️ Play Store — https://play.google.com/store/apps/dev?id=5913381804494964279
 
 ---
 
