@@ -77,11 +77,8 @@ I'm a Fullstack + DevOps Engineer building scalable, high-performance software �
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Stay tuned for updates!
-<!-- BLOG-POST-LIST:END -->
+## 📝 HacakaTime
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 ---
 
