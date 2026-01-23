@@ -75,12 +75,6 @@ I'm a Fullstack + DevOps Engineer building scalable, high-performance software �
 - **Auth Server** - 🪪 Authentication server with features like seperate and group apps, specialized for developers
   👉 https://authservices.mspkapps.in/
 
----
-
-## 📝 HacakaTime
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-
----
 
 ## 🤝 Let's Connect!
 
