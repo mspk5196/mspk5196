@@ -10,7 +10,7 @@ I'm a Fullstack + DevOps Engineer building scalable, high-performance software �
 - ⚛️ **React Native Developer** — Cross-platform mobile apps on iOS & Android.
 - 🔁 **CI/CD & Deployment** — Jenkins + Docker for automation.
 - 📊 **Observability & Monitoring** — Grafana dashboards + metrics.
-- 🌐 **Cloud & Infra** — Self-hosted + cloud-hosted apps.
+- 🌐 **Cloud & Infra** — Self-hosted + cloud-hosted(AWS) apps.
 - 🌱 **Continuous Learner** — Always experimenting with new stacks & tooling.
 
 ---
@@ -22,9 +22,9 @@ I'm a Fullstack + DevOps Engineer building scalable, high-performance software �
 - **Backend Development**: Node, Express, SQL, storage, auth, real-time.
 - **CI/CD Pipelines**: Jenkins automation + Docker-based deployments.
 - **Monitoring & Metrics**: Grafana dashboards for system insights.
-- **Cloud & DevOps**: Deployments, networking, SSL, reverse proxies.
-- **Self-Hosted Infra**: Docker + Local Ubuntu Server + Nginx + Caddy.
-- **Domain Management**: DNS, SSL, certificates & routing.
+- **Cloud & DevOps**: Deployments, networking, SSL, reverse proxies, AWS(EC2, RDS, Route53).
+- **Self-Hosted Infra**: Docker + Local Ubuntu Server + Nginx + Caddy, Terraform(Basics).
+- **Domain Management**: DNS, SSL, certificates & routing, Cloudflare(DNS, Tunnels & more).
 - **Mentoring**: Helping other devs grow and learn.
 
 ---
@@ -36,7 +36,7 @@ I'm a Fullstack + DevOps Engineer building scalable, high-performance software �
 
   **Languages**
   - 🟦 JavaScript
-  - ⚙️ SQL
+  - ⚙️ MySQL, PostgreSQL(Basics)
 
   **Frontend**
   - ⚛️ React
@@ -58,7 +58,7 @@ I'm a Fullstack + DevOps Engineer building scalable, high-performance software �
 
   **Infra / Cloud**
   - ☁️ Render / Vercel / Railway / Back4App / TiDB Cloud
-  - ☁️ Google Cloud Console
+  - ☁️ AWS
   - 🐳 Docker
   - 🏠 Ubuntu / Local server setups
   - 🌐 Nginx / Caddy + SSL
