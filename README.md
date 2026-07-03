@@ -1,7 +1,7 @@
 # 👋 Hello, I'm **MSPK**!
 
 I'm a Fullstack + DevOps Engineer building scalable, high-performance software — from backend services to mobile apps and cloud deployments.
-
+Aspiring to build real products that is ready for the world..,
 ---
 
 ## 🚀 About Me
