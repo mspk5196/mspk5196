@@ -76,7 +76,7 @@ Software Engineer & B.Tech AI/DS undergrad who architects and ships production s
 * **TaskApp — Enterprise Multi-Tenant Task & Workflow Platform** 🚀
   Live in production across 3 organizations, 200+ active employees, expanding to 2,000+ students. Multi-tenant data isolation, RBAC, hierarchical escalation engine, task-bidding marketplace, and a leaderboard scoring engine. Node.js/Express/MySQL API + React/Vite/Tailwind admin portal + React Native app.
 
-* **AGN Schools ERP — School Administration & Finance Platform** 🏫
+* **School ERP — School Administration & Finance Platform** 🏫
   Student lifecycle management, fee/ledger accounting with Razorpay integration, transport logistics, and RBAC-driven staff governance with a global audit-logging layer. Express 5/Sequelize/MySQL + React 19/Vite + React Native, containerized with Docker + Nginx.
 
 * **MSPK Cloud Storage** ☁️ — *Founder & Product Architect* | [mspkapps.in](https://mspkapps.in)
