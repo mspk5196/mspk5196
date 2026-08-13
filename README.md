@@ -76,7 +76,7 @@ I'm a Fullstack + DevOps Engineer building scalable, high-performance software �
 * 💼 **LinkedIn:** [linkedin.com/in/mspk5196](https://www.linkedin.com/in/mspk5196)
 * ✉️ **Email:** praneshkarthims@gmail.com
 * ▶️ **Play Store Developer Page:** [MSPK Apps](https://play.google.com/store/apps/dev?id=5913381804494964279)
-* 🌐 **Portfolio Website:** [mspkapps.in](https://mspkapps.in)
+* 🌐 **Portfolio Website:** [mspkapps.in](https://mspk.in)
 
 ---
 
