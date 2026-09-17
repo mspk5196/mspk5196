@@ -52,7 +52,7 @@ I enjoy building systems that solve real-world problems, with a strong focus on 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,java,go,python" />
+<img src="https://skillicons.dev/icons?i=js,java" />
 </p>
 
 ### 🎨 Frontend & Mobile
